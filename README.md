@@ -4,6 +4,9 @@ Keyloggers are a type of monitoring software utilized to record keystrokes made 
 # Project Outputs
 
 python keylogger.py
+
 type something and press enter to print something on Command prompt
-This is a simple keylogger program.
-press "Esc" key to stop the keylogger
+
+This is a simple keylogger program
+
+press "Esc" key to stop the keylogger.
